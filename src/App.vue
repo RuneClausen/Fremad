@@ -6,7 +6,7 @@ import {RouterLink, RouterView} from 'vue-router'
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
       <a class="navbar-nav" href="#">
-        <img src="src/assets/images/LogoSkovbakkenFremad.png" class="w-25 h-25"/>
+        <img src="/src/assets/images/LogoSkovbakkenFremad.png" class="w-25 h-25"/>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
               data-bs-target="#navbarCollapseContent" aria-controls="navbarCollapseContent"

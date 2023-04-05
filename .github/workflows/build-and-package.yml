@@ -32,5 +32,5 @@ jobs:
             org.opencontainers.image.source=https://github.com/${{ github.repository }}
             org.opencontainers.image.description=Commit message: ${{ github.event.head_commit.message }}
           tags: |
-            ghcr.io/runeclausen/portfolio:latest
-            ghcr.io/runeclausen/portfolio:${{ github.sha }}
+            ghcr.io/runeclausen/fremad:latest
+            ghcr.io/runeclausen/fremad:${{ github.sha }}
